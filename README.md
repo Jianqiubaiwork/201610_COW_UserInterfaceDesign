@@ -1,2 +1,1 @@
-# 2_Academic_UserInterfaceDesign
-UI Final Project 2016
+Evaluated the Blender user interface as a first-time user, built 3D model and observed 3D printing process.
