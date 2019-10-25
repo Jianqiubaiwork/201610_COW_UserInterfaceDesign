@@ -1,1 +1,1 @@
-Evaluated the Blender user interface as a first-time user, built 3D model and observed 3D printing process.
+Built a 3D model using Blender as a first-time user to evaluate the user interface
